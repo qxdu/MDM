@@ -6,7 +6,7 @@ The models discussed in this paper are all detailed in the wiki documentation of
 
 A simple diagram of our MDM model can be described as follows:
 
-<img src="[https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/qxdu/MDM/assets/59758004/97830654-5b13-43fd-89a0-b8433b166c97)" width="700px">
+<img src="https://github.com/qxdu/MDM/assets/59758004/97830654-5b13-43fd-89a0-b8433b166c97" width="700px">
 
 |Models|Wiki|Description|
 |----|----|----|
