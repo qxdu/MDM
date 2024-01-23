@@ -6,7 +6,7 @@ The models discussed in this paper are all detailed in the wiki documentation of
 
 |Models|Wiki|Description|
 |----|----|----|
-| CNN_K15|https://github.com/WangLabTHU/GPro/wiki/4.2.1-CNN-K15| Our Predictive Model|
+| CNN|https://github.com/HaochenW/Deep_promoter| Our Predictive Model|
 | WGAN| https://github.com/WangLabTHU/GPro/wiki/4.1.1-WGAN| Generator|
 | MDM| https://github.com/WangLabTHU/GPro/wiki/4.1.2-Diffusion| Generator|
 
@@ -68,6 +68,12 @@ Results are provided in paper and supplementary materials. We performed [DDM-MDS
 </div>
 
 ## Citations
+[1] Wang Y, Wang H, Wei L, et al. Synthetic promoter design in Escherichia coli based on a deep generative network[J]. Nucleic Acids Research, 2020, 48(12): 6403-6412.
 
+[2] Hoogeboom E, Nielsen D, Jaini P, et al. Argmax flows and multinomial diffusion: Learning categorical distributions[J]. Advances in Neural Information Processing Systems, 2021, 34: 12454-12465.
+
+[3] Avdeyev P, Shi C, Tan Y, et al. Dirichlet Diffusion Score Model for Biological Sequence Generation[J]. arXiv preprint arXiv:2305.10699, 2023.
+
+[4] Guo Z, Liu J, Wang Y, et al. Diffusion models in bioinformatics and computational biology[J]. Nature Reviews Bioengineering, 2023: 1-19.
 
 
