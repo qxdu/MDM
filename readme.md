@@ -6,7 +6,7 @@ The models discussed in this paper are all detailed in the wiki documentation of
 
 |Models|Wiki|Description|
 |----|----|----|
-| CNN_K15|https://github.com/WangLabTHU/GPro/wiki/4.2.1-CNN-K15| Our Predictive Model|
+| CNN|https://github.com/HaochenW/Deep_promoter| Our Predictive Model|
 | WGAN| https://github.com/WangLabTHU/GPro/wiki/4.1.1-WGAN| Generator|
 | MDM| https://github.com/WangLabTHU/GPro/wiki/4.1.2-Diffusion| Generator|
 
