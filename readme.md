@@ -23,6 +23,8 @@ ddsm-main is available at https://github.com/jzhoulab/ddsm/tree/main/promoter_de
 
 To adapt to the cellular environment, we should ensure the generated promoters follow the key feature distributions of the natural promoter sequences.  Here we perform multiple comparisons of our MDM with DDSM, WGAN, PromoDiff and PPSM. 
 
+Our datasets for similarity analysis contain 4 benchmarks (ecoli_50, ecoli_165, yeast_80, yeast_1000) from GPro: https://github.com/WangLabTHU/GPro/wiki/7.-Datasets 
+
 |Metrics|Codes|Description|
 |----|----|----|
 | weblogos | https://github.com/WangLabTHU/GPro/wiki/4.4.5-WebLogo | The weblogo of MDM-generated sequences should have highly conserve motif features | 
@@ -36,6 +38,10 @@ All avaiable results have been provided in https://github.com/qxdu/MDM/tree/mast
 <div align=center>
 <img src="https://github.com/qxdu/MDM/blob/master/evaluation/results/kmer_mdm.png" width="700px">
 </div>
+
+A comparison of kmer similarity on 4 benchmarks is as follows:
+
+![Fig2_kmer](https://github.com/qxdu/MDM/assets/59758004/dc3bd3cb-fa38-4e6d-b74d-624b6211b884)
 
 
 ## Mode Collapse Analysis
