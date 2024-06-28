@@ -23,7 +23,7 @@ ddsm-main is available at https://github.com/jzhoulab/ddsm/tree/main/promoter_de
 
 To adapt to the cellular environment, we should ensure the generated promoters follow the key feature distributions of the natural promoter sequences.  Here we perform multiple comparisons of our MDM with DDSM, WGAN, PromoDiff and PPSM. 
   
-Our datasets for similarity analysis contain 4 benchmarks (ecoli_50, ecoli_165, yeast_80, yeast_1000) from GPro: https://github.com/WangLabTHU/GPro/wiki/7.-Datasets  
+Our datasets for similarity analysis contain 4 benchmarks (ecoli_50, ecoli_165, yeast_80, yeast_1000) from GPro: https://github.com/WangLabTHU/GPro/wiki/7.-Datasets . Refer to our provided wiki for more detailed information about these benchmarks.
 
 
 |Metrics|Codes|Description|
@@ -84,5 +84,7 @@ Results are provided in paper and supplementary materials. We performed [DDM-MDS
 [3] Avdeyev P, Shi C, Tan Y, et al. Dirichlet Diffusion Score Model for Biological Sequence Generation[J]. arXiv preprint arXiv:2305.10699, 2023.
 
 [4] Guo Z, Liu J, Wang Y, et al. Diffusion models in bioinformatics and computational biology[J]. Nature Reviews Bioengineering, 2023: 1-19.
+
+[5] Wang H, Du Q, Wang Y, et al. GPro: generative AI-empowered toolkit for promoter design[J]. Bioinformatics, 2024, 40(3): btae123.
 
 
