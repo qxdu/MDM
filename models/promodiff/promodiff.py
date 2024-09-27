@@ -184,7 +184,7 @@ def train():
     f.close()
 
     ##load data
-    file = "/home/qxdu/AI_based_promoter_design/dataset/diffusion_promoter/sequence_data.txt"
+    file = ".../datasets/diffusion_promoter/sequence_data.txt"
     seq_file = open(file).read().splitlines()
     data = get_input(seqs=seq_file,seq_lenth=50)
     real_bz = 128

@@ -48,7 +48,7 @@ beta =  torch.arange(ncat - 1, 0, -1).float()
 
 torch.set_default_dtype(torch.float32)
 
-total_feature = open_fa("/home/qxdu/AI_based_promoter_design/dataset/diffusion_promoter/sequence_data.fa")
+total_feature = open_fa(".../datasets/sequence_data.fa")
 total_feature = seq2onehot(total_feature, 50) # ACGT
 total_feature = torch.tensor(total_feature, dtype=float) # (sample num,length,4) 
 r = int(total_feature.shape[0] * 0.9)
