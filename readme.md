@@ -40,7 +40,7 @@ All avaiable results have been provided in https://github.com/qxdu/MDM/tree/mast
 
 
 <div align=center>
-<img src="https://github.com/qxdu/MDM/blob/master/evaluation/results/kmer_mdm.png" width="700px">
+<img src="https://github.com/qxdu/MDM/blob/master/Figure2_analysis/results/Supp_kmer_mdm.png" width="700px">
 </div>
 
 A comparison of kmer similarity on 4 benchmarks is as follows:
