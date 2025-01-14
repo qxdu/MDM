@@ -2,6 +2,8 @@
 
 code repository for paper: https://www.cell.com/iscience/fulltext/S2589-0042(24)02432-5
 
+Du, Qixiu, et al. "Synthetic promoter design in Escherichia coli based on multinomial diffusion model." Iscience 27.11 (2024).
+
 ## Model Architectures
 
 The models discussed in this paper are all detailed in the wiki documentation of our [GPro](https://github.com/WangLabTHU/GPro/tree/main/gpro) package, which is publicly available. We would be delighted if you also wished to try out our toolkit!
